@@ -1,47 +1,66 @@
-# Business — Generative Engine Optimization Map
+# מאור שיקום נזקי אש ומים — Generative Engine Optimization Map
+
+> A professional restoration and renovation company specializing in fire and water damage rehabilitation. Services include post-fire apartment renovation, water damage repair, mold removal from walls, roof waterproofing, and general apartment and building renovation. The business focuses on restoring damaged properties to their original condition, serving homeowners and building owners dealing with emergency damage situations.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://maor-shikum-nizkey-esh-umayim.zappy5.app
 נזקי מים, אש או עובש הרסו את הנכס שלכם? מאור שיקום נזקי אש ומים מתמחה בשיקום מקצועי ומהיר — מחזירים כל דירה או מבנה למצבו המקורי. פנו אלינו עוד היום!
 
 ### שירותים
-https://example.com/services
+https://maor-shikum-nizkey-esh-umayim.zappy5.app/services
 שיקום נזקי מים ואש, הסרת עובש מקירות, איטום גגות ושיפוץ דירות — כל השירותים המקצועיים במקום אחד. גלו כיצד אנחנו מחזירים את הנכס שלכם לחיים בצורה המהירה והאיכותית ביותר.
 
 ### אודות
-https://example.com/about
+https://maor-shikum-nizkey-esh-umayim.zappy5.app/about
 היכירו את הצוות המקצועי שמאחורי מאור שיקום נזקי אש ומים — ניסיון עשיר בשיקום נזקי אש ומים, מחויבות לאיכות ולשקיפות מלאה. כי כשהבית שלכם נפגע, מגיע לכם רק את הטוב ביותר.
 
 ### צור קשר
-https://example.com/contact
+https://maor-shikum-nizkey-esh-umayim.zappy5.app/contact
 סבלתם מנזקי מים, אש או עובש ולא יודעים מאיפה להתחיל? השאירו פרטים עכשיו וקבלו ייעוץ מקצועי ללא עלות — צוות מאור שיקום נזקי אש ומים כאן בשבילכם בכל שעה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://maor-shikum-nizkey-esh-umayim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://maor-shikum-nizkey-esh-umayim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://maor-shikum-nizkey-esh-umayim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מאור שיקום נזקי אש ומים
+A professional restoration and renovation company specializing in fire and water damage rehabilitation. Services include post-fire apartment renovation, water damage repair, mold removal from walls, roof waterproofing, and general apartment and building renovation. The business focuses on restoring damaged properties to their original condition, serving homeowners and building owners dealing with emergency damage situations.
+
+## Services/Products
+- שיקום נזקי אש
+- שיקום נזקי מים
+- שיפוץ דירה לאחר שריפה
+- שיפוץ דירה לאחר נזקי מים
+- הורדת עובש מהקירות
+- איטום גגות
+- שיפוץ דירות ומבנים
+
+## Target Audience
+בעלי דירות ומבנים שנפגעו מאש, מים או עובש
+
+## Industry
+בנייה ושיפוצים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://maor-shikum-nizkey-esh-umayim.zappy5.app/sitemap.xml
+- **Robots.txt**: https://maor-shikum-nizkey-esh-umayim.zappy5.app/robots.txt
