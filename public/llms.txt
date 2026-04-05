@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נזקי מים, אש או עובש הרסו את הנכס שלכם? מאור שיקום נזקי אש ומים מתמחה בשיקום מקצועי ומהיר — מחזירים כל דירה או מבנה למצבו המקורי. פנו אלינו עוד היום!
+
+### שירותים
+https://example.com/services
+שיקום נזקי מים ואש, הסרת עובש מקירות, איטום גגות ושיפוץ דירות — כל השירותים המקצועיים במקום אחד. גלו כיצד אנחנו מחזירים את הנכס שלכם לחיים בצורה המהירה והאיכותית ביותר.
+
+### אודות
+https://example.com/about
+היכירו את הצוות המקצועי שמאחורי מאור שיקום נזקי אש ומים — ניסיון עשיר בשיקום נזקי אש ומים, מחויבות לאיכות ולשקיפות מלאה. כי כשהבית שלכם נפגע, מגיע לכם רק את הטוב ביותר.
+
+### צור קשר
+https://example.com/contact
+סבלתם מנזקי מים, אש או עובש ולא יודעים מאיפה להתחיל? השאירו פרטים עכשיו וקבלו ייעוץ מקצועי ללא עלות — צוות מאור שיקום נזקי אש ומים כאן בשבילכם בכל שעה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
